@@ -1,0 +1,24 @@
+
+]
+java:S1220""Move this file to a named package.8®¨Õ¿ã1J$9cfb52de-fc29-4380-a873-763e100218d5
+‚
+java:S1854"?Remove this useless assignment to local variable "funcionario".(¼¸‰ù8¯Ö›íã1J$46531bb9-e8cf-4748-9a69-992c0daec280
+„
+java:S1854"<Remove this useless assignment to local variable "parceiro".(‰Ìö¤üÿÿÿÿ8µ¨Õ¿ã1J$4a02c08d-021d-41e5-8dc1-0aca3b0efbee
+…
+java:S1854"=Remove this useless assignment to local variable "industria".(ì¹›¢úÿÿÿÿ8°Ö›íã1J$6338f4d2-e3c5-4515-b66d-a8b92f707188
+~
+java:S1854";Remove this useless assignment to local variable "fazenda".(¦óÆŽ8±Ö›íã1J$571341bc-5207-466d-9416-9259a0bcfd0c
+
+java:S1854"HRemove this useless assignment to local variable "servicoFinanciamento".(¾¨òåýÿÿÿÿ8±Ö›íã1J$5bff0873-6c8d-4e31-accf-5e81e32cf4ae
+
+java:S1481"9Remove this unused "servicoFinanciamento" local variable.(¾¨òåýÿÿÿÿ8´Ö›íã1J$e2f1ab66-29f2-417b-b8ce-f6f18b555791
+o
+java:S1481",Remove this unused "fazenda" local variable.(¦óÆŽ8µÖ›íã1J$56f3a580-e137-4f17-a028-63cdec0ac724
+v
+java:S1481".Remove this unused "industria" local variable.(ì¹›¢úÿÿÿÿ8¶Ö›íã1J$c3390468-505b-4e5c-822a-85ef63aa01b7
+u
+java:S1481"-Remove this unused "parceiro" local variable.(‰Ìö¤üÿÿÿÿ8·¨Õ¿ã1J$e8b8e001-bfa8-48c4-b0f3-56afb2e6a0b6
+s
+java:S1481"0Remove this unused "funcionario" local variable.(¼¸‰ù8¸Ö›íã1J$7be40f36-c3fd-4c30-a864-c347243ddb11
+~	java:S125"<This block of commented-out lines of code should be removed.(–ðéë8»Ö›íã1J$028e9358-7dd9-4edf-87e8-4090dfd3d37b

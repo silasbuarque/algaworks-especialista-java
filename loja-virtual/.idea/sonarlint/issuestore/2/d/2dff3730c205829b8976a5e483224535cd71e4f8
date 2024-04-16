@@ -1,0 +1,6 @@
+
+™
+java:S3457 "Q%n should be used in place of \n to produce the platform-specific line separator.(é¹ÿæûÿÿÿÿ8ÄÒÛç1J$19a7076a-28d4-4f99-bfef-7dc2e631f63c
+r	java:S106 "+Replace this use of System.out by a logger.(é¹ÿæûÿÿÿÿ8ÆÒÛç1J$62f85bea-73c9-4962-96e4-183d5ef0b798
+
+java:S1128"GRemove this unused import 'com.algaworks.loja.pagamento.CartaoCredito'.(çùÃúÿÿÿÿ8æ‡‚ç1J$98cfd6ca-5039-45f7-94c0-da2af970b14f
