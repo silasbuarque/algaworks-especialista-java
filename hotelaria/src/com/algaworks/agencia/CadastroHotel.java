@@ -22,6 +22,10 @@ public class CadastroHotel {
         return hoteis;
     }
 
+    public Hotel[] obterTodosComArray() {
+        return hoteis.toArray(new Hotel[0]);
+    }
+
     public void removerPorCidade(String cidade) {
 
         Iterator<Hotel> hotelIterator = hoteis.iterator();

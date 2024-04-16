@@ -1,6 +1,7 @@
 import com.algaworks.agencia.CadastroHotel;
 import com.algaworks.agencia.Hotel;
 
+import java.util.Arrays;
 import java.util.List;
 import java.util.Vector;
 
@@ -15,11 +16,13 @@ public class Principal {
         cadastro.adicionar("Tivoli Eco Resort", "Praia do forte/BA", 2000);
         cadastro.adicionar("Mercure", "Uberlandia/MG", 400);
 
-//        cadastro.removerPorCidade("Fortim/CE");
 
-        List<Hotel> hoteis = cadastro.obterTodos();
+        Hotel[] hoteisArray = cadastro.obterTodosComArray();
+        System.out.println(Arrays.toString(hoteisArray));
 
-        imprimirHoteis(hoteis);
+//        List<Hotel> hoteis = cadastro.obterTodos();
+//
+//        imprimirHoteis(hoteis);
 
     }
 
