@@ -16,13 +16,10 @@ public class Principal {
         cadastro.adicionar("Tivoli Eco Resort", "Praia do forte/BA", 2000);
         cadastro.adicionar("Mercure", "Uberlandia/MG", 400);
 
+        cadastro.ordenar();
 
-        Hotel[] hoteisArray = cadastro.obterTodosComArray();
-        System.out.println(Arrays.toString(hoteisArray));
-
-//        List<Hotel> hoteis = cadastro.obterTodos();
-//
-//        imprimirHoteis(hoteis);
+        List<Hotel> hoteis = cadastro.obterTodos();
+        imprimirHoteis(hoteis);
 
     }
 

@@ -22,6 +22,10 @@ public class CadastroHotel {
         return hoteis;
     }
 
+    public void ordenar() {
+        Collections.sort(hoteis);
+    }
+
     public Hotel[] obterTodosComArray() {
         return hoteis.toArray(new Hotel[0]);
     }
