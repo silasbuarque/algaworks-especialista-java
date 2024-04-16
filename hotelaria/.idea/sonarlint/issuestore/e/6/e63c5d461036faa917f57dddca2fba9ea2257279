@@ -1,7 +1,5 @@
 
-¨
-java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(º•Í–8íüÂ£î1J$52a73435-7615-444a-a8fa-f38269686c8f
-‡
-java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(şü¾‚şÿÿÿÿ8•Ã£î1
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(«ù¼¿øÿÿÿÿ8ï°Êî1J$4a2ae391-287c-4783-ae81-fe7270faaab8
-l	java:S106"+Replace this use of System.out by a logger.(êÄ¥8ô°Êî1J$db95656c-1e71-4ff8-aa0f-a4eb9817b328
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(«ù¼¿øÿÿÿÿ8ï°Êî1J$78297d7f-aa0a-4525-8376-31b598fe8869
+l	java:S106"+Replace this use of System.out by a logger.(êÄ¥8ô°Êî1J$ee70d326-fb7e-4ef1-9568-4880ff13632d
+O
+java:S1128"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ8šÀ¯·î1

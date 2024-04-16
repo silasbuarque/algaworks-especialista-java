@@ -1,9 +1,7 @@
 import com.algaworks.agencia.CadastroHotel;
 import com.algaworks.agencia.Hotel;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.ListIterator;
+import java.util.List;
 import java.util.Vector;
 
 public class Principal {
@@ -19,13 +17,13 @@ public class Principal {
 
 //        cadastro.removerPorCidade("Fortim/CE");
 
-        Vector<Hotel> hoteis = cadastro.obterTodos();
+        List<Hotel> hoteis = cadastro.obterTodos();
 
         imprimirHoteis(hoteis);
 
     }
 
-    private static void imprimirHoteis(Vector<Hotel> hoteis) {
+    private static void imprimirHoteis(List<Hotel> hoteis) {
 
         for (Hotel hotel : hoteis) {
             System.out.printf("%s (%s) -> R$ %.2f%n", hotel.getNome(), hotel.getCidade(), hotel.getPrecoDiaria());

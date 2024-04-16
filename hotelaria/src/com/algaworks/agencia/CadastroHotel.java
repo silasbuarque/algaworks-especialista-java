@@ -1,14 +1,11 @@
 package com.algaworks.agencia;
 
 import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.Vector;
+import java.util.*;
 
 public class CadastroHotel {
 
-    private final Vector<Hotel> hoteis = new Vector<>();
+    private final List<Hotel> hoteis = new Vector<>();
 
     public void adicionar(String nome, String cidade, double precoDiaria) {
 
@@ -21,7 +18,7 @@ public class CadastroHotel {
         hoteis.add(hotel);
     }
 
-    public Vector<Hotel> obterTodos() {
+    public List<Hotel> obterTodos() {
         return hoteis;
     }
 
