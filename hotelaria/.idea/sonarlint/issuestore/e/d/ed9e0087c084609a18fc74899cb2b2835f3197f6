@@ -1,5 +1,9 @@
 
-´
-java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(İªº¥8•ŸŸ¢î1J$b7ff5366-041d-4d68-93db-6abdeccb278d
-s
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¨ŸŸ¢î1J$a63debe1-cbab-4ea6-a4ee-8cf32a7a0287
+­
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(İÛ±øÿÿÿÿ8ÿ¶Â£î1J$e01da042-0768-4915-9cd4-8fbc94173080
+‚
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(½îôÌ8âÚÂ£î1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8óÚÂ£î1
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18óÚÂ£î1

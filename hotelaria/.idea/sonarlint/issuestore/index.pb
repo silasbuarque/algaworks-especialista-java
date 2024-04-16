@@ -9,3 +9,6 @@ e
 5src/com/algaworks/agencia/HotelJaExisteException.java,0\3\0318dc5edcf194abd97e4c2cf7fef5f7538a84b0
 j
 :src/com/algaworks/agencia/HotelNaoEncontradoException.java,0\f\0fc9f2a7a618101f4f9b9c90c53d3ddf999c1319
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
