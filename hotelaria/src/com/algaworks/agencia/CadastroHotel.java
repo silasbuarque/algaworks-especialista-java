@@ -3,10 +3,11 @@ package com.algaworks.agencia;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.LinkedList;
 
 public class CadastroHotel {
 
-    private final ArrayList<Hotel> hoteis = new ArrayList<>();
+    private final LinkedList<Hotel> hoteis = new LinkedList<>();
 
     public void adicionar(String nome, String cidade, double precoDiaria) {
 
@@ -19,7 +20,7 @@ public class CadastroHotel {
         hoteis.add(hotel);
     }
 
-    public ArrayList<Hotel> obterTodos() {
+    public LinkedList<Hotel> obterTodos() {
         return hoteis;
     }
 
