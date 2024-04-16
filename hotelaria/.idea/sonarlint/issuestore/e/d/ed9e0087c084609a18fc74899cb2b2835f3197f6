@@ -1,3 +1,5 @@
 
-³
-java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(•¥å³8œÆ•ôí1J$b3fb756d-f4ad-4047-8de5-0f9e67a7de89
+´
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(Ýªº¥8•ŸŸ¢î1J$b7ff5366-041d-4d68-93db-6abdeccb278d
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¨ŸŸ¢î1J$a63debe1-cbab-4ea6-a4ee-8cf32a7a0287
