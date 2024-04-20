@@ -1,24 +1,10 @@
 
 =
 src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
-A
-src/Notebook.java,5\0\5008091b13b7683499311f168d41617b1882c3b7
 X
 (src/com/algaworks/locadora/Notebook.java,8\c\8c2136cc3ed0596ec1a105e6758abc11d0c9aa5d
 W
 'src/com/algaworks/locadora/Locacao.java,0\d\0d61355f87bbf6e9060bd4ffd534ab31fc3e44b6
-]
--src/com/algaworks/locadora/LocacaoPorDia.java,6\a\6ad280ae2ccdb9371bdfa894495d17886ddf559b
-^
-.src/com/algaworks/locadora/LocacaoPorHora.java,5\c\5c61caeed9afb14182db4eafcf9f53ed5ae44b33
-m
-=src/com/algaworks/locadora/LocacaoPorHoraSeguroSantander.java,e\d\ed79fa44f3fbe9eb56ce0dc8b4000c0f93f231eb
-l
-<src/com/algaworks/locadora/LocacaoPorDiaSeguroSantander.java,f\1\f1a905146c4d81c0406c19c53830aa98d16508c6
-h
-8src/com/algaworks/locadora/LocacaoPorHoraSeguroItau.java,1\9\19d3e17f3e75a5eaae5ca9d5336351731c07505c
-g
-7src/com/algaworks/locadora/LocacaoPorDiaSeguroItau.java,c\7\c76c87df1a64aec16780881d75c227ed42f907f9
 \
 ,src/com/algaworks/locadora/Precificacao.java,2\f\2f7a2c71e872c1dbb439b853b4b76eeb95d8f996
 c
