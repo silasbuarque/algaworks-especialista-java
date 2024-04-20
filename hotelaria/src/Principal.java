@@ -11,12 +11,12 @@ public class Principal {
 
         CadastroHotel cadastro = new CadastroHotel();
         cadastro.adicionar("Jaguaribe Lodge", "Fortim/CE", 1300);
-        cadastro.adicionar("Vila Selvagem", "Fortim/CE", 1400);
-        cadastro.adicionar("Hotel Fazenda Dona Carolina", "Itatiba/SP", 2200);
+        cadastro.adicionar("Vila Selvagem", "Fortim/CE", 1300);
+        cadastro.adicionar("Hotel Fazenda Dona Carolina", "Itatiba/SP", 1300);
         cadastro.adicionar("Tivoli Eco Resort", "Praia do forte/BA", 2000);
         cadastro.adicionar("Mercure", "Uberlandia/MG", 400);
 
-        cadastro.ordenar();
+        cadastro.ordenarPorPreco();
 
         List<Hotel> hoteis = cadastro.obterTodos();
         imprimirHoteis(hoteis);
