@@ -1,15 +1,13 @@
 import com.algaworks.crm.Contato;
-import com.algaworks.crm.IdadeContatoComparator;
 
-import java.util.HashSet;
+import java.util.LinkedHashSet;
 import java.util.Set;
-import java.util.TreeSet;
 
 public class Principal {
 
     public static void main(String[] args) {
 
-        Set<Contato> contatos = new TreeSet<>(new IdadeContatoComparator());
+        Set<Contato> contatos = new LinkedHashSet<>();
 
         System.out.println("---");
         contatos.add(new Contato("Maria", "maria@algaworks.com", 40));
@@ -19,7 +17,7 @@ public class Principal {
         contatos.add(new Contato("João", "joao@algaworks.com", 70));
         contatos.add(new Contato("Josefina", "josefina@algaworks.com", 70));
         contatos.add(new Contato("Siberia", "siberia@algaworks.com", 70));
- 
+
         contatos.add(new Contato("Ana Silva", "ana@algaworks.com", 10));
 
         for (Contato contato : contatos) {

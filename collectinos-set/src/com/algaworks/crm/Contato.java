@@ -2,7 +2,7 @@ package com.algaworks.crm;
 
 import java.util.Objects;
 
-public class Contato implements Comparable<Contato>{
+public class Contato {
 
     private String nome;
     private String email;
@@ -65,9 +65,4 @@ public class Contato implements Comparable<Contato>{
         return email.charAt(0);
     }
 
-    @Override
-    public int compareTo(Contato o) {
-        System.out.printf("compareTo - %s = %s%n", getEmail(), o.getEmail());
-        return getEmail().compareTo(o.getEmail());
-    }
 }
