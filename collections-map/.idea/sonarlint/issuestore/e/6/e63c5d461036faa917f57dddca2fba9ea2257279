@@ -1,11 +1,7 @@
 
 {
-java:S1854"8Remove this useless assignment to local variable "joao".( šáµ8Þ­¥éð1J$61b3465b-8bd1-4454-a28a-0e2efa22ffcc
+java:S1854"8Remove this useless assignment to local variable "joao".( šáµ8Þ­¥éð1J$d073c151-e25b-462a-9cfe-f56e9f1fa20e
 l
-java:S1481")Remove this unused "joao" local variable.( šáµ8ã­¥éð1J$85a1c614-a866-410d-a4bb-0628592c7d2e
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(ßËÌ¢þÿÿÿÿ8ß‚ñéð1J$dccf4b23-bb95-493e-8392-af59b4cfe784
-G	java:S106 "+Replace this use of System.out by a logger.(±£È²8–—ñéð1
-v
-java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ºÞïéð1J$9cedf58a-4ab0-42ad-ab47-f3e4c1380208
-r
-java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8ó­¥éð1J$733c5ef5-ea87-4ad1-87bf-4c160564a6ab
+java:S1481")Remove this unused "joao" local variable.( šáµ8ã­¥éð1J$eefe7727-9232-4923-b3df-c8671e97dd56
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ßËÌ¢þÿÿÿÿ8ß‚ñéð1J$cecb2daa-403f-42a6-9995-c009364b0154
+m	java:S106"+Replace this use of System.out by a logger.(±£È²8–—ñéð1J$8718cfbb-2c4d-483b-8b9d-65f197b5f69c

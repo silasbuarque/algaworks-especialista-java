@@ -1,10 +1,7 @@
 import com.algaworks.detran.Carro;
 import com.algaworks.detran.Proprietario;
 
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 public class Principal {
 
@@ -20,7 +17,7 @@ public class Principal {
         Carro ford = new Carro("JAV5A67", "Ford Ka");
         Carro porsche = new Carro("EJA0V44", "Porsche 911");
 
-        Map<Carro, Proprietario> proprietarios = new LinkedHashMap<>();
+        Map<Carro, Proprietario> proprietarios = new TreeMap<>();
         proprietarios.put(bmw, maria);
         proprietarios.put(honda, ana);
         proprietarios.put(ford, jose);
