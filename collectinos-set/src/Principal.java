@@ -1,13 +1,15 @@
 import com.algaworks.crm.Contato;
+import com.algaworks.crm.IdadeContatoComparator;
 
 import java.util.HashSet;
 import java.util.Set;
+import java.util.TreeSet;
 
 public class Principal {
 
     public static void main(String[] args) {
 
-        Set<Contato> contatos = new HashSet<>();
+        Set<Contato> contatos = new TreeSet<>(new IdadeContatoComparator());
 
         System.out.println("---");
         contatos.add(new Contato("Maria", "maria@algaworks.com", 40));
@@ -16,15 +18,14 @@ public class Principal {
         contatos.add(new Contato("Rosa", "rosa@algaworks.com", 50));
         contatos.add(new Contato("João", "joao@algaworks.com", 70));
         contatos.add(new Contato("Josefina", "josefina@algaworks.com", 70));
-        contatos.add(new Contato("Siberia", "siberia@algaworks.com", 30));
+        contatos.add(new Contato("Siberia", "siberia@algaworks.com", 70));
+ 
+        contatos.add(new Contato("Ana Silva", "ana@algaworks.com", 10));
 
+        for (Contato contato : contatos) {
+            System.out.println(contato);
+        }
 
-        System.out.println("");
-        System.out.println("");
-        System.out.println("");
-
-        boolean resultado = contatos.contains(new Contato("Silas", "silas@algaworks.com", 27));
-        System.out.println(resultado);
     }
 
 }
