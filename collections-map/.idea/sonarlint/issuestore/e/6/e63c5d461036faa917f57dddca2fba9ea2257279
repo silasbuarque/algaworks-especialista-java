@@ -1,0 +1,18 @@
+
+{
+java:S1854"8Remove this useless assignment to local variable "joao".( šáµ8Þ­¥éð1J$6e93daa6-39cf-47c0-8b71-e14be4ff4c6d
+Œ
+java:S4143"DVerify this is the key that was intended; it was already set before.(Áþð‹ýÿÿÿÿ8à­¥éð1J$b3fda58b-e44f-446b-ad6b-5da43de2f648
+l
+java:S1481")Remove this unused "joao" local variable.( šáµ8ã­¥éð1J$733f7c2a-efd1-4364-bb6f-de07f42bb613
+]	java:S125"<This block of commented-out lines of code should be removed.(ªñˆØÿÿÿÿÿ8‘¦éð1
+ƒ	java:S125!"<This block of commented-out lines of code should be removed.(ßËÌ¢þÿÿÿÿ8é­¥éð1J$7dadba51-a474-4b5a-b2f3-9cfe30e42b76
+}	java:S125#"<This block of commented-out lines of code should be removed.(­¡í!8í­¥éð1J$81cf28c7-d482-4014-8212-e52a50799ebe
+ƒ	java:S125&"<This block of commented-out lines of code should be removed.(âñªÑþÿÿÿÿ8ð­¥éð1J$64832d2f-a596-49c4-8c6f-b3258a5a3243
+~	java:S125)"<This block of commented-out lines of code should be removed.(éìª¿8ð­¥éð1J$af5ecde8-c6a7-4072-80c1-32aa5dcde48b
+~	java:S125-"<This block of commented-out lines of code should be removed.(•ˆ •8ð­¥éð1J$360c7c7c-8970-403c-bf9e-7c8a87a67727
+~	java:S1251"<This block of commented-out lines of code should be removed.(éìª¿8ð­¥éð1J$82b55a65-9e76-49b2-9efa-e88817e8bb84
+ƒ	java:S1256"<This block of commented-out lines of code should be removed.(…Øóæÿÿÿÿÿ8ñ­¥éð1J$181a7904-073a-450a-980c-3e9c93d6aa28
+m	java:S106<"+Replace this use of System.out by a logger.(±£È²8ò­¥éð1J$bdaee969-732e-4530-94c0-f88dcd5526b8
+r
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8ó­¥éð1J$7bb2f2ed-56cb-4d14-9edc-30caed265ae3
