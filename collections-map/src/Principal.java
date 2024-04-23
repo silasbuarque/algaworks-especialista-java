@@ -2,6 +2,7 @@ import com.algaworks.detran.Carro;
 import com.algaworks.detran.Proprietario;
 
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
 
@@ -19,42 +20,13 @@ public class Principal {
         Carro ford = new Carro("JAV5A67", "Ford Ka");
         Carro porsche = new Carro("EJA0V44", "Porsche 911");
 
-        Map<Carro, Proprietario> proprietarios = new HashMap<>();
+        Map<Carro, Proprietario> proprietarios = new LinkedHashMap<>();
         proprietarios.put(bmw, maria);
         proprietarios.put(honda, ana);
         proprietarios.put(ford, jose);
         proprietarios.put(porsche, maria);
 
-        proprietarios.put(porsche, jose);
-
-//        proprietarios.remove(new Carro("JAV5A67", "XXX"));
-//        proprietarios.remove(ford);
-
 //        System.out.println(proprietarios);
-
-//        System.out.println(proprietarios.get(new Carro("JAV5A67", "XXX")));
-//        System.out.println(proprietarios.get(new Carro("XXX5A67", "Ford Ka")));
-
-//        Set<Carro> chaves = proprietarios.keySet();
-//        for (Carro carro : proprietarios.keySet()) {}
-
-//        for (Carro carro : proprietarios.keySet()) {
-//            System.out.println(carro);
-//        }
-
-//        for (Proprietario value : proprietarios.values()) {
-//            System.out.println(value);
-//        }
-
-//        for (Carro carro : proprietarios.keySet()) {
-//            Proprietario proprietario = proprietarios.get(carro);
-//            System.out.printf("%s (%s) = %s%n", carro.getPlaca(), carro.getModelo(), proprietario.getNome());
-//        }
-
-//        for (Map.Entry<Carro, Proprietario> entry : proprietarios.entrySet()) {
-//            System.out.printf("%s (%s) = %s%n", entry.getKey().getPlaca(),
-//                    entry.getKey().getModelo(), entry.getValue().getNome());
-//        }
 
         for (var entry : proprietarios.entrySet()) {
             System.out.printf("%s (%s) = %s%n", entry.getKey().getPlaca(),
