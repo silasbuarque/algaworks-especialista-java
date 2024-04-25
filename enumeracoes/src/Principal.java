@@ -1,14 +1,22 @@
 public class Principal {
 
     public static void main(String[] args) {
+//        System.out.println(StatusPedido.EMITIDO.ordinal());
+//        System.out.println(StatusPedido.EMITIDO.name());
 
-        Pedido pedido = new Pedido();
-        pedido.setNomeCliente("João da Silva");
-        pedido.setStatus(StatusPedido.EMITIDO);
-        pedido.setOrigem(OrigemPedido.BALCAO);
+//        for (StatusPedido value : StatusPedido.values()) {
+//            System.out.println(value.name());
+//            System.out.printf("%d - %s%n ", value.ordinal(), value.name());
+//        }
 
-        System.out.println(pedido.getStatus());
-        System.out.println(pedido.getOrigem());
+//        String textoStatus = "EMITIDO";
+//        StatusPedido status = StatusPedido.valueOf(textoStatus);
+//        System.out.printf("%d - %s%n", status.ordinal(), status.name());
+
+        int numero = 7;
+        StatusPedido status = StatusPedido.values()[numero];
+        System.out.printf("%d - %s%n", status.ordinal(), status.name());
+
 
     }
 
