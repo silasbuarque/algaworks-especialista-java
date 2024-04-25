@@ -4,10 +4,11 @@ public class Principal {
 
         Pedido pedido = new Pedido();
         pedido.setNomeCliente("João da Silva");
+        pedido.setStatus(StatusPedido.EMITIDO);
+        pedido.setOrigem(OrigemPedido.BALCAO);
 
-        pedido.setStatus(Pedido.STATUS_EMITIDO);
-
-        System.out.println(Pedido.getDescricaoStatus(pedido.getStatus()));
+        System.out.println(pedido.getStatus());
+        System.out.println(pedido.getOrigem());
 
     }
 
