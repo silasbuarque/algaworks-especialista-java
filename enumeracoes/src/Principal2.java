@@ -4,9 +4,13 @@ public class Principal2 {
 
         Pedido pedido = new Pedido();
         pedido.setNomeCliente("João da silva");
-        pedido.setStatus(StatusPedido.RASCUNHO);
+        pedido.setValorTotalPedido(90);
+        pedido.emitir();
+        pedido.cancelar();
 
-        System.out.println(pedido.getTempoEntregaEmHoras());
+
+//        System.out.println(pedido.);
+
     }
 
 }

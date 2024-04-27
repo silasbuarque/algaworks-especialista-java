@@ -11,7 +11,6 @@ public enum StatusPedido {
     private Integer tempoEntregaEmHoras;
 
     StatusPedido(){
-
     }
 
     StatusPedido(int tempoEntregaEmHoras) {
@@ -20,6 +19,12 @@ public enum StatusPedido {
 
     public Integer getTempoEntregaEmHoras() {
         return tempoEntregaEmHoras;
+    }
+
+    public boolean podeMudarParaCancelado(double valorPedido) {
+        return RASCUNHO.equals(this)
+                || StatusPedido.EMITIDO.equals(this) && valorPedido< 100;
+
     }
 
 }
