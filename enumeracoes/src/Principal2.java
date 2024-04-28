@@ -9,8 +9,6 @@ public class Principal2 {
         pedido.cancelar();
 
 
-//        System.out.println(pedido.);
-
     }
 
 }

@@ -17,10 +17,6 @@ public class Pedido {
         return status;
     }
 
-//    public void setStatus(StatusPedido status) {
-//        this.status = status;
-//    }
-
     public OrigemPedido getOrigem() {
         return origem;
     }
