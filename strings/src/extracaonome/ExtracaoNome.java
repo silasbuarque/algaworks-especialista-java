@@ -4,15 +4,20 @@ public class ExtracaoNome {
 
     public static void main(String[] args) {
 
-        String nome = "João Silva";
+        String nome = "João da Silva Alcantara Pereira Vasconcelos de Melo";
 
-//        System.out.println(nome.indexOf(" ")); // 4
-//        System.out.println(nome.substring(5));
-//
-//        System.out.println(nome.substring(5, 10));
+        System.out.println(obterUltimoNome(nome));
+    }
 
-//        System.out.println(obterSobrenome(nome));
-        System.out.println(obterSegundoNome(nome));
+    private static String obterUltimoNome(String nome) {
+
+        int posicaoUltimoEspaco = nome.lastIndexOf(" ");
+
+        if (posicaoUltimoEspaco < 0) {
+            throw new RuntimeException("Não é um nome completo");
+        }
+
+        return nome.substring(posicaoUltimoEspaco + 1);
 
     }
 
