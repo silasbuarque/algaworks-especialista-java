@@ -1,22 +1,24 @@
 package precisao;
 
+import java.math.BigDecimal;
+
 public class ContaCorrente {
 
-    private double saldo;
+    private BigDecimal saldo = BigDecimal.ZERO;
 
-    public void depositar(double valor) {
-        this.saldo += valor;
+    public void depositar(BigDecimal valor) {
+        saldo = saldo.add(valor);
     }
 
-    public void sacar(double valorSaque) {
-        if (valorSaque > this.saldo) {
+    public void sacar(BigDecimal valorSaque) {
+        if (valorSaque.compareTo(saldo) > 0) {
             throw new RuntimeException(String.format("Saque: %s, Saldo: %s", valorSaque, saldo));
         }
 
-        this.saldo -= valorSaque;
+        saldo = saldo.subtract(valorSaque);
     }
 
-    public double getSaldo() {
+    public BigDecimal getSaldo() {
         return saldo;
     }
 
