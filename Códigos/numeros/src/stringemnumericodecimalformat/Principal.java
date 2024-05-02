@@ -14,9 +14,9 @@ public class Principal {
         formatador.setParseBigDecimal(true);
 
         BigDecimal valor = (BigDecimal) formatador.parse(texto);
-        BigDecimal total = valor.add(new BigDecimal("1000"));
+//        BigDecimal total = valor.add(new BigDecimal("1000"));
 
-        System.out.println(total);
+        System.out.println(valor);
 
     }
 
