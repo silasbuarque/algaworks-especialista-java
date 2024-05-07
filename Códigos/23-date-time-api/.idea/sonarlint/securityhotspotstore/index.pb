@@ -25,3 +25,6 @@ c
 3src/date/time/api/instant/ConversaoDateInstant.java,b\0\b01c3b31cb2a62aadfb90548518830eeeb7bd78d
 V
 &src/date/time/api/instant/Instant.java,0\8\0825e4d8234eee2d5b02881ae8df17aa2283bee5
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
