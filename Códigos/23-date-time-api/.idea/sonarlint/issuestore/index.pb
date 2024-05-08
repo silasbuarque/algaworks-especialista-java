@@ -16,3 +16,9 @@ V
 -src/date/time/api/localtime/LocalTimeAPI.java,2\6\26c285897212b3a93f91cbff2243cf9b2219bd0e
 e
 5src/date/time/api/LocalDateTime/LocalDateTimeAPI.java,5\1\51614b6ade1402e890e9a406cac3c9b915645014
+i
+9src/date/time/api/formas/de/obter/FormasDeObterLocal.java,8\9\89f711e354b92d12afa70c851fb5b1ac792fa0d5
+i
+9src/date/time/api/formas/de/obter/FormaDeObterLocal2.java,b\0\b0251309fb6d6d4ba8dfcd008eebbd8f1b37b112
+j
+:src/date/time/api/formas/de/obter/FormasDeObterLocal2.java,7\f\7f38d85e59ca5e97084a203466936b4f98b467b3
