@@ -22,3 +22,5 @@ i
 9src/date/time/api/formas/de/obter/FormaDeObterLocal2.java,b\0\b0251309fb6d6d4ba8dfcd008eebbd8f1b37b112
 j
 :src/date/time/api/formas/de/obter/FormasDeObterLocal2.java,7\f\7f38d85e59ca5e97084a203466936b4f98b467b3
+l
+<src/date/time/api/formatandoDataHora/FormatandoDataHora.java,7\4\74ee3617930fd7c0f5841c1ec3c3b892b2a924b2
