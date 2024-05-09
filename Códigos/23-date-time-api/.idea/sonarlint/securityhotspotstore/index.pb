@@ -32,3 +32,5 @@ y
 Isrc/date/time/api/ConversaoStringParaObjTemporais/ConversaoLocalTime.java,5\6\563b0642b9c60ba49a0577f6f8dd15055eb96e20
 }
 Msrc/date/time/api/ConversaoStringParaObjTemporais/ConversaoLocalDateTime.java,6\c\6c54606f3d4b7c1374aa7e2a219706ece4019732
+J
+src/desafios/Desafio1.java,1\c\1c9784871b5d6bd5aab419a3f20b6610f9ad3818
