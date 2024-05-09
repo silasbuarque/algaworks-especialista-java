@@ -24,3 +24,11 @@ j
 :src/date/time/api/formas/de/obter/FormasDeObterLocal2.java,7\f\7f38d85e59ca5e97084a203466936b4f98b467b3
 l
 <src/date/time/api/formatandoDataHora/FormatandoDataHora.java,7\4\74ee3617930fd7c0f5841c1ec3c3b892b2a924b2
+w
+Gsrc/date/time/api/ConversaoStringParaObjTemporais/ConversaoInstant.java,5\1\51ad26b15dd4a8e84e2a370e345cc5f6e6f8d8de
+y
+Isrc/date/time/api/ConversaoStringParaObjTemporais/ConversaoLocalDate.java,f\5\f5cc865c0ede3478f0f0387c9b0e1a5651d507cf
+y
+Isrc/date/time/api/ConversaoStringParaObjTemporais/ConversaoLocalTime.java,5\6\563b0642b9c60ba49a0577f6f8dd15055eb96e20
+}
+Msrc/date/time/api/ConversaoStringParaObjTemporais/ConversaoLocalDateTime.java,6\c\6c54606f3d4b7c1374aa7e2a219706ece4019732

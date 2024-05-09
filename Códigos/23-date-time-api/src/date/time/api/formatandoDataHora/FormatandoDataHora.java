@@ -2,8 +2,6 @@ package date.time.api.formatandoDataHora;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.time.format.FormatStyle;
-import java.util.Locale;
 
 public class FormatandoDataHora {
 
