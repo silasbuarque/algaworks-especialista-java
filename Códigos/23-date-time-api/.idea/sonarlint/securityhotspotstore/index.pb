@@ -18,8 +18,6 @@ e
 5src/date/time/api/LocalDateTime/LocalDateTimeAPI.java,5\1\51614b6ade1402e890e9a406cac3c9b915645014
 i
 9src/date/time/api/formas/de/obter/FormasDeObterLocal.java,8\9\89f711e354b92d12afa70c851fb5b1ac792fa0d5
-i
-9src/date/time/api/formas/de/obter/FormaDeObterLocal2.java,b\0\b0251309fb6d6d4ba8dfcd008eebbd8f1b37b112
 j
 :src/date/time/api/formas/de/obter/FormasDeObterLocal2.java,7\f\7f38d85e59ca5e97084a203466936b4f98b467b3
 l
@@ -38,3 +36,5 @@ J
 Psrc/date/time/api/ObterCamposTemporaisEEnumChronoField/ObterCamposTemporais.java,3\8\38a41788cc6e52064f16ff43b6ae585cabf3c2bc
 ƒ
 Ssrc/date/time/api/AlterandoObjetosTemporaisComWith/AlterandoObjTemporalComWith.java,3\d\3d1c8d0a885f34434e28a3c901f3a2c7b6cc6be3
+|
+Lsrc/date/time/api/CalculandoObjetosTemporais/CalculandoObjetosTemporais.java,8\c\8c36910dd1a4f11bcedaca182ebedb80b28d071b
