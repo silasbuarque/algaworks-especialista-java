@@ -34,3 +34,7 @@ Isrc/date/time/api/ConversaoStringParaObjTemporais/ConversaoLocalTime.java,5\6\
 Msrc/date/time/api/ConversaoStringParaObjTemporais/ConversaoLocalDateTime.java,6\c\6c54606f3d4b7c1374aa7e2a219706ece4019732
 J
 src/desafios/Desafio1.java,1\c\1c9784871b5d6bd5aab419a3f20b6610f9ad3818
+€
+Psrc/date/time/api/ObterCamposTemporaisEEnumChronoField/ObterCamposTemporais.java,3\8\38a41788cc6e52064f16ff43b6ae585cabf3c2bc
+ƒ
+Ssrc/date/time/api/AlterandoObjetosTemporaisComWith/AlterandoObjTemporalComWith.java,3\d\3d1c8d0a885f34434e28a3c901f3a2c7b6cc6be3
