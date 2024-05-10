@@ -42,3 +42,15 @@ y
 Isrc/date/time/api/CalculandoObjetosTemporaisComChronoUnit/ChronoUnit.java,5\5\552ce892194dca6d1aa049ab6f5fc9f1f7f8f9c7
 |
 Lsrc/date/time/api/CalculandoObjetosTemporaisComChronoUnit/ChronoUnitAPI.java,4\5\457a23dc43801d103faa8858a542e0c441cefa4d
+x
+Hsrc/anotacoes/CalculandoObjetosTemporaisComChronoUnit/ChronoUnitAPI.java,2\4\241bb367c8dd5f8725e8bdb212085489cdb66d7f
+J
+src/desafios/Desafio2.java,c\b\cbbf4d76e73646f6a994c7aa86d76f4e7a94726e
+S
+#src/desafios/desafio1/Desafio1.java,a\e\aed2663d3e360af9f798441e6f0f97453567d809
+S
+#src/desafios/desafio2/Desafio2.java,9\1\9118ec12aca6079d7742af3d4e9f4cbd474ede71
+T
+$src/desafios/desafio2/Principal.java,8\3\83c1d91cf1a399b99f71002457e875b10b81378c
+^
+.src/desafios/desafio2/CalculadoraParcelas.java,0\f\0fe49a6f0b8624c0479a16e2d5175f11cf0600e2
