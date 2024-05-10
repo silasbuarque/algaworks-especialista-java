@@ -54,3 +54,7 @@ T
 $src/desafios/desafio2/Principal.java,8\3\83c1d91cf1a399b99f71002457e875b10b81378c
 ^
 .src/desafios/desafio2/CalculadoraParcelas.java,0\f\0fe49a6f0b8624c0479a16e2d5175f11cf0600e2
+O
+src/Testes/SubtraindoDatas.java,b\8\b843c081d391a275ce20d5eed756db400686390f
+e
+5src/anotacoes/RepresentandoComPeriod/PeriodClass.java,2\7\275d3e344cfdf7b24d7b4ce089bc179c6466f9b6
