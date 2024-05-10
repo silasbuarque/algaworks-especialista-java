@@ -38,3 +38,7 @@ Psrc/date/time/api/ObterCamposTemporaisEEnumChronoField/ObterCamposTemporais.jav
 Ssrc/date/time/api/AlterandoObjetosTemporaisComWith/AlterandoObjTemporalComWith.java,3\d\3d1c8d0a885f34434e28a3c901f3a2c7b6cc6be3
 |
 Lsrc/date/time/api/CalculandoObjetosTemporais/CalculandoObjetosTemporais.java,8\c\8c36910dd1a4f11bcedaca182ebedb80b28d071b
+y
+Isrc/date/time/api/CalculandoObjetosTemporaisComChronoUnit/ChronoUnit.java,5\5\552ce892194dca6d1aa049ab6f5fc9f1f7f8f9c7
+|
+Lsrc/date/time/api/CalculandoObjetosTemporaisComChronoUnit/ChronoUnitAPI.java,4\5\457a23dc43801d103faa8858a542e0c441cefa4d
