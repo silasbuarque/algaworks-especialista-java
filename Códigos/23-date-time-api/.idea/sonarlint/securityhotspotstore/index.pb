@@ -58,3 +58,7 @@ O
 src/Testes/SubtraindoDatas.java,b\8\b843c081d391a275ce20d5eed756db400686390f
 e
 5src/anotacoes/RepresentandoComPeriod/PeriodClass.java,2\7\275d3e344cfdf7b24d7b4ce089bc179c6466f9b6
+r
+Bsrc/anotacoes/CalculandoPeriodosDeObjetosTemporais/Principal1.java,d\b\db87118133efb38071196609892534b4bba4a1f0
+r
+Bsrc/anotacoes/CalculandoPeriodosDeObjetosTemporais/Principal2.java,a\0\a02ab24e2793cc706443c8a7ce7b47611635f751
