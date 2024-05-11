@@ -18,3 +18,7 @@ r
 Bsrc/anotacoes/CalculandoPeriodosDeObjetosTemporais/Principal2.java,a\0\a02ab24e2793cc706443c8a7ce7b47611635f751
 f
 6src/anotacoes/RepresentandoDuration/DurationClass.java,9\8\9830125ae438087f720320a17c43c14607799915
+o
+?src/anotacoes/CalculandoDuracaoObjetosTemporais/Principal1.java,e\4\e4e05ad1dd2e646e07bd7418c54b8e66598ce3b3
+o
+?src/anotacoes/CalculandoDuracaoObjetosTemporais/Principal2.java,2\6\2645d21e3b3858b9fdd7d0637fa09bedf52a6974
