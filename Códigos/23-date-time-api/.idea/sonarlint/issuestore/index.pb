@@ -40,3 +40,5 @@ a
 -src/codigos/TemporalAdjusters/Principal2.java,5\a\5a780491064c618ebb4c7bfd9280f99ca540b17c
 h
 8src/codigos/TemporalAdjusters/NatalTemporalAdjuster.java,5\f\5f9acbd2a67e26f21e3c1ee8b6f36a86c8a7cd13
+f
+6src/codigos/ComparandoObjetosTemporais/Principal1.java,8\7\879762b4ee28647bdc85c80b68634f5e00f3819a
