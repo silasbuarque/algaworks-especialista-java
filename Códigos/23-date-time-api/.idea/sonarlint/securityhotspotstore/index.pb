@@ -30,3 +30,13 @@ W
 0src/codigos/RepresentandoDiaDoMes/Principa1.java,4\2\42cb2687dfe11ac0c1f27bd542c7502d2a22523b
 a
 1src/codigos/RepresentandoDiaDoMes/Principal2.java,e\c\ec2482ec92c2c30d9d2215a1e69ca534470b2dcb
+a
+1src/codigos/RepresentandoMesDoAno/Principal1.java,e\0\e06e0af8cfb544432a84be882a19665e287910bf
+a
+1src/codigos/RepresentandoMesDoAno/Principal2.java,1\5\155b7b662ac727e54e4572a42553aecb86179ac9
+]
+-src/codigos/TemporalAdjusters/Principal1.java,e\1\e1885d0630f832b22093afe9ad3b0374ab929573
+]
+-src/codigos/TemporalAdjusters/Principal2.java,5\a\5a780491064c618ebb4c7bfd9280f99ca540b17c
+h
+8src/codigos/TemporalAdjusters/NatalTemporalAdjuster.java,5\f\5f9acbd2a67e26f21e3c1ee8b6f36a86c8a7cd13
