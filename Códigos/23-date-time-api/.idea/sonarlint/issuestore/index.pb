@@ -62,3 +62,13 @@ v
 Fsrc/codigos/CalculandoObjetosTemporais/CalculandoObjetosTemporais.java,7\d\7d47cefe147b71f42633d64829265c87c06901a1
 s
 Csrc/codigos/ConversaoStringParaObjTemporais/ConversaoLocalDate.java,c\b\cb4f25fe45f9ead817cedc57ba590f6a92f2bca1
+q
+Asrc/codigos/IdentificandoFusoComZoneIdEZoneOffSet/principal1.java,2\9\2944e27b48c7c648fe61a053ce7b11b6b95413d9
+q
+Asrc/codigos/IdentificandoFusoComZoneIdEZoneOffSet/Principal2.java,1\e\1e68ec2278b6ae6a4da5d9737927f108bf175fe3
+q
+Asrc/codigos/IdentificandoFusoComZoneIdEZoneOffSet/Principal3.java,4\c\4ceb6b96a79130e34552fb0b3ba44da0f6d27089
+q
+Asrc/codigos/IdentificandoFusoComZoneIdEZoneOffSet/Principal1.java,f\2\f262e2745e128beb20aea29a51651de75c2c9055
+q
+Asrc/codigos/IdentificandoFusoComZoneIdEZoneOffSet/Principal4.java,3\1\318ef68b1495d9371ca4d944119200e2cb585328
