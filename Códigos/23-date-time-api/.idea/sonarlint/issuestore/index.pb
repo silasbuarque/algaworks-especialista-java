@@ -72,3 +72,7 @@ q
 Asrc/codigos/IdentificandoFusoComZoneIdEZoneOffSet/Principal1.java,f\2\f262e2745e128beb20aea29a51651de75c2c9055
 q
 Asrc/codigos/IdentificandoFusoComZoneIdEZoneOffSet/Principal4.java,3\1\318ef68b1495d9371ca4d944119200e2cb585328
+t
+Dsrc/codigos/InstanciandoObjTemporaisEmFusoEspecifico/Principal1.java,9\7\97f3634ce7f95fdd8fa1217b569fa752768c07c8
+t
+Dsrc/codigos/InstanciandoObjTemporaisEmFusoEspecifico/Principal2.java,5\b\5b132722acb78168afdd28a14388bb3b9c5e1ee0
