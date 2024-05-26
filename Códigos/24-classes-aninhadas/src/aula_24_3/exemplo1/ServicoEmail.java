@@ -1,4 +1,4 @@
-package Aula_24_2;
+package aula_24_3.exemplo1;
 
 public class ServicoEmail {
 
@@ -7,6 +7,7 @@ public class ServicoEmail {
                 mensagem.getRemetente(), mensagem.getDestinatario(), mensagem.getTexto());
     }
 
+//    private static class Mensagem {
     public static class Mensagem {
 
         private final String remetente;

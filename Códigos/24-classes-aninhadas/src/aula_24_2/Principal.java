@@ -1,4 +1,4 @@
-package Aula_24_2;
+package aula_24_2;
 
 public class Principal {
 
