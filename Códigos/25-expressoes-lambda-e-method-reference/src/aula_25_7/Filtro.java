@@ -1,4 +1,4 @@
-package aula_25_6;
+package aula_25_7;
 
 @FunctionalInterface
 public interface Filtro<T> {
